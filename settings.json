@@ -1,13 +1,13 @@
 {
-  "name": "AFK Bot",
+  "name": "24/7",
   "bot-account": {
-    "username": "Slobot00",
+    "username": "24/7",
     "password": "",
     "type": "offline"
   },
   "server": {
     "ip": "LUBerchti-RTjR.aternos.me",
-    "port": 27586,
+    "port": 24794,
     "version": "",
     "try-creative": false
   },
@@ -31,9 +31,7 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
+        "Im a 24/7 bot!"
       ]
     },
     "chat-log": true,
